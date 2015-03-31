@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <user id="1">
+        <username>swap</username>
+        <password>sss</password>
+        <city>fre</city>
+    </user>
+    <user id="2">
+        <username>swapnesh</username>
+        <password>ggggg</password>
+        <city>mont</city>
+    </user>
+</person>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+	<user id="123">
+		<username>abc</username>
+		<password>abc</password>
+		<city>fremont</city>
+		
+	</user>
+	<user id="1124">
+		<username>def</username>
+		<password>def</password>
+		<city>mont</city>
+	</user>
+
+	<user id="123">
+		<username>ghi</username>
+		<password>ghi</password>
+		<city>fre</city>
+	</user>
+
+</person>
+    

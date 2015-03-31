@@ -1,0 +1,36 @@
+calcualte method called with 1 2
+result is 3
+calcualte method called with -1 2
+result is 1
+please provide positive numbers
+calcualte method called with 20 20
+result is 40
+calcualte method called with 0 0
+result is 0
+calcualte method called with 1 2
+result is 3
+calcualte method called with -1 2
+result is 1
+please provide positive numbers
+calcualte method called with 20 20
+result is 40
+calcualte method called with 0 0
+result is 0
+calcualte method called with 1 2
+result is 3
+calcualte method called with -1 2
+result is 1
+please provide positive numbers
+calcualte method called with 20 20
+result is 40
+calcualte method called with 0 0
+result is 0
+2015-03-05 19:06:20,172 DEBUG Calculator:10 - calcualte method called with 1 2
+2015-03-05 19:06:20,172 INFO  Calculator:11 - result is 3
+2015-03-05 19:06:20,172 DEBUG Calculator:10 - calcualte method called with -1 2
+2015-03-05 19:06:20,172 INFO  Calculator:11 - result is 1
+2015-03-05 19:06:20,172 ERROR Calculator:14 - please provide positive numbers
+2015-03-05 19:06:20,172 DEBUG Calculator:10 - calcualte method called with 20 20
+2015-03-05 19:06:20,188 INFO  Calculator:11 - result is 40
+2015-03-05 19:06:20,188 DEBUG Calculator:10 - calcualte method called with 0 0
+2015-03-05 19:06:20,188 INFO  Calculator:11 - result is 0
